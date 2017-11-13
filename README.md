@@ -30,6 +30,8 @@ No central authority except to verify voter validity. The process begins with th
 
 Then the owner of the localbody can set up a poll which has yes/no options or multiple choice options (representing the different candidates for eg.) The voter can now use the anonymous address to cast a vote on the Ethereum blockchain. Once a vote is cast it cannot be changed, nor can a vote be cast after the deadline. The voter can see the results real time after voting.
 
+![alt text](/images/process.png "Process")
+
 > How to run it?
 
 1. Run `npm install`
